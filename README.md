@@ -23,4 +23,4 @@ If you have trouble initializing the server or face any bugs, this may be due to
 
 If you need any additional info or help in running the program, or wish to report a bug, please contact me at kumaraaryan711@outlook.com
 
-HAPPY CODING :)
+HAVE FUN TRADING!  :)
