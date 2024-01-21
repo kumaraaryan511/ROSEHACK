@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block main %}
+<p>Quote prices</p>
+<table>
+    <tr>
+        <th>Stock name</th>
+        <th>{{ quote["symbol"] }}</th>
+    </tr>
+    <tr>
+        <th>Stock price</th>
+        <th>{{ quote["price"] }} usd</th>
+
+    </tr>
+</table>
+{% endblock %}

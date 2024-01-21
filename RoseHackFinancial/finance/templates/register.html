@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block main %}
+<p >Register</p>
+<form action="/register" method="post">
+    <input autocomplete="off" type="text" name="code1" placeholder="username">
+    <input autocomplete="off" type="text" name="code2" placeholder="password">
+    <input autocomplete="off" type="text" name="code2check" placeholder="password-confirm">
+    <button type="submit">Register for StockSim</button>
+</form>
+{% endblock %}
