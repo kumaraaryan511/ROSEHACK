@@ -1,7 +1,6 @@
 # ROSEHACK
 HI!
 
-
 My name is Aaryan Kumar. This is my submission for RoseHack 2024.
 In this project, I have created a "stock simulation", in which one can "trade" hypothetical stocks without investing any real money to learn more about the stock market.
 It is purely meant to be educational, and allows anyone to register for free.
